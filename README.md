@@ -1,4 +1,4 @@
-# GMDprivateServer
+# GMDprivateServer All Admin
 ## Geometry Dash Private Server
 Basically a Geometry Dash Server Emulator
 
